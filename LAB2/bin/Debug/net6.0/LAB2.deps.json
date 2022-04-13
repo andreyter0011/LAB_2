@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LAB2/1.0.0": {
+        "dependencies": {
+          "MinDLL": "1.0.0"
+        },
+        "runtime": {
+          "LAB2.dll": {}
+        }
+      },
+      "MinDLL/1.0.0": {
+        "runtime": {
+          "MinDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

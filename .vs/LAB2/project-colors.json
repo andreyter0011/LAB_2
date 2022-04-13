@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d25c61dd-56c8-4507-8747-d1aa3eb6e8ba": {
+      "ProjectGuid": "d25c61dd-56c8-4507-8747-d1aa3eb6e8ba",
+      "DisplayName": "LAB2",
+      "ColorIndex": 0
+    },
+    "3490c178-cc50-4197-a8f7-f55d42c62d84": {
+      "ProjectGuid": "3490c178-cc50-4197-a8f7-f55d42c62d84",
+      "DisplayName": "MinDLL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

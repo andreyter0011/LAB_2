@@ -1,0 +1,11 @@
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\bin\Debug\net6.0\MinDLL.deps.json
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\bin\Debug\net6.0\MinDLL.dll
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\bin\Debug\net6.0\ref\MinDLL.dll
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\bin\Debug\net6.0\MinDLL.pdb
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.AssemblyInfoInputs.cache
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.AssemblyInfo.cs
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.dll
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\ref\MinDLL.dll
+C:\Users\Andrey\Pet-Project\LAB2\MinDLL\obj\Debug\net6.0\MinDLL.pdb
